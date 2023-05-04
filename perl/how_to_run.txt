@@ -1,1 +1,1 @@
-perl C:\xampp\cgi-bin\detour_actions.pl
+perl C:\xampp\cgi-bin\detour_actions.pl 6086219446188 5 2023-06-20 delete
